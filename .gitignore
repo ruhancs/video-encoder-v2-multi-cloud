@@ -1,0 +1,5 @@
+.env
+comando.txt
+payload_test.txt
+gcp-credential.json
+.pgdata
